@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GithubProfileDemo.xcscheme_^#shared#^_</key>
+		<key>Development.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Production.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>64EB39092C9B0272007C5CBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EB391B2C9B0274007C5CBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EB39252C9B0274007C5CBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

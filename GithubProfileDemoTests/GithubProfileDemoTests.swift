@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import GithubProfileDemo
+import GithubProfileDemo
 
 final class GithubProfileDemoTests: XCTestCase {
 
