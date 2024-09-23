@@ -182,8 +182,7 @@ class RepoListViewModelTest: XCTestCase {
         GithubRepoModel(
             id: 987654,
             nodeID: "MDEwOlJlcG9zaXRvcnkxMjM0NTY=",
-            name: "Repo 2
-            ",
+            name: "Repo 2",
             fullName: "testuser/TestRepo2",
             githubProjectPrivate: false,
             htmlURL: "https://github.com/testuser/TestRepo2",
